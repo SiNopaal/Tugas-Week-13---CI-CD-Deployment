@@ -16,7 +16,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/jatihusen/Basic-Java-Maven</url>
+      <url>https://maven.pkg.github.com/SiNopaal/Tugas-Week-13---CI-CD-Deployment</url>
     </repository>
   </distributionManagement>
   
